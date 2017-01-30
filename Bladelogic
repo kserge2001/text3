@@ -1,4 +1,4 @@
-#!/bin/ksh#
+#!/bin/ksh
 # findprog.ksh
 #platform=`hostname`echo "platform is: $platform"
 if [[ ${platform} != 'dssva253' ]]; then   
